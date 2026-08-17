@@ -1,0 +1,22 @@
+{
+	"$schema":"https://acode.app/schema/plugin/v1.0.0.json",
+	"id":"jr.plugin.github_dark_pro",
+	"name":"Github Dark Pro",
+	"main":"main.js",
+	"version":"1.0.0",
+	"readme":"README.md",
+	"icon":"icon.png",
+	"files":[],
+	"price":0,
+	"description":"github dark pro theme for Acode.",
+	"minVersionCode":967,
+	"keywords":["acode",
+		"plugin",
+		"theme",
+		"github dark pro"],
+	"author": {
+		"name":"Jr_Hattori-Official"
+	},
+		
+	"source":"content://com.android.externalstorage.documents/document/primary%3AGithub%20dark%20Pro.zip"
+}

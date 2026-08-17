@@ -1,0 +1,9 @@
+{
+    "name": "GitHub Dark Pro",
+    "version": "1.0.0",
+    "description": "github dark pro theme for Acode.",
+    "main": "main.js",
+    "author": "Jr_Hattori-Official",
+    "license": "MIT",
+    "keywords": ["acode", "plugin", "theme", "github dark pro"],
+}
